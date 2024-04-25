@@ -13,7 +13,7 @@ const Navbar = () => {
                 <div className="flex items-center justify-between h-20">
                     <div className="flex items-center">
                         <div className="flex-shrink-0 text-white">
-                            <img className='h-14 w-auto' src="/logo.webp" />
+                            <img className='h-14 w-auto' src="/logo.webp" alt="how to abroad"/>
                         </div>
                         <div className="hidden md:block">
                             {/* Desktop Menu */}
